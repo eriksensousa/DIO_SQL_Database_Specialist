@@ -7,6 +7,5 @@ Para este desafio envolve Refinar um Projeto Conceitual de Banco de Dados – E-
 ### Tecnologias utilizadas
 * Software de Modelagem de Dados SQL.
 
-## Autor
-Davi Leyendecker
+
 
